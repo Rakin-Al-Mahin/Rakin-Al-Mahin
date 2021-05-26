@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rakin-Al-Mahin
+- 👀 I’m interested in Software making
+- 🌱 I’m currently learning Java
+- 📫 Reach me at --- rakin992raj@gmail.com
