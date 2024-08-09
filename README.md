@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Rakin-Al-Mahin
-- 👀 I’m interested in Software making
-- 🌱 I’m currently learning Java
-- 📫 Reach me at --- rakin992raj@gmail.com
+- 👀 I’m interested in Software developing
+- 🌱 I’m currently learning MERN stack development
+- 📫 Reach me at --- rakinalmahin@gmail.com
