@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Rakin-Al-Mahin
-- 👀 I’m a Software developer
-- 🌱 I’m currently working as an Associate Software Developer at iCrew Technologies
+- 👀 I’m a Software Engineer
+- 🌱 I’m currently working as an Associate Software Engineer at iCrew Technologies
 - 📫 Reach me at --- rakinalmahin@gmail.com
